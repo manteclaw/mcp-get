@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "mcp-base-automation",
+    "description": "MCP server for Base L2 agent automation — Litcoiin mining, wallet ops, identity",
+    "vendor": "Manteclaw",
+    "sourceUrl": "https://github.com/manteclaw/mcp-base-automation",
+    "homepage": "https://github.com/manteclaw/mcp-base-automation",
+    "license": "MIT"
+  }
+]
